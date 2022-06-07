@@ -1,5 +1,5 @@
 # KeyWest
-A project repository for Key West water quality and biodiversity project. The aim of this project is to model qater quality and biodiveristy in the Lower Keys. 
+A project repository for Key West water quality and biodiversity project. The aim of this project is to model water quality and biodiveristy in the Lower Keys. 
 
 Data Sources
 
