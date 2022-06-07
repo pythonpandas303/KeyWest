@@ -15,7 +15,7 @@ Data have been obtained from the following sources:\
 
 [CREMP generic and non-generic data](https://ocean.floridamarine.org/fknms_wqpp/coral.htm) provided by Coral Reef Evaluation and Monitoring Project (CREMP), supported by NOAA, EPA and Florida Dept. of Environmental Protection.\
 
-[National Coral Reef Monitoring Program](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCRMP-Benthic-Florida) data were used particularly as it relates to invertebrate observations. 
+[National Coral Reef Monitoring Program](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCRMP-Benthic-Florida) data were used particularly related to invertebrate observations. 
 
 
 ### Project Explanation and Goals
