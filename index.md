@@ -1,5 +1,6 @@
 ## Lower Keys Water Quality and Biodiversity Project
 This aim of this project is to analyze and project water quality parameters and biodiversity metrics in the Lower Keys. \
+Project Owner: Tom Teasdale\
 email: tteasdale(at)regis(dot)edu \
 Academic Advisor: Dr. Doug Hart 
 
