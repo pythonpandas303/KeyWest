@@ -6,7 +6,7 @@ Academic Advisor: Dr. Doug Hart
 ![acropora](https://user-images.githubusercontent.com/95242618/172421616-9c0015ce-0eda-4da2-9647-6fdb49dd93f0.jpg)
 
 Data have been obtained from the following sources:\
-[South Florida Reef Visual Census](http://www.sefsc.noaa.gov/rvc_analysis20/samples/index\)
+[South Florida Reef Visual Census](http://www.sefsc.noaa.gov/rvc_analysis20/samples/index)
 
 [Water Quality Data](http://serc.fiu.edu/wqmnetwork/FKNMS-CD/data_user_agreement.htm) were provided by the SERC-FIU Water Quality Monitoring Network which is supported by EPA Agreement #X7 00D02412-1 and NOAA Agreement #NA09NOS4260253.\
 
