@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Lower Keys Water Quality and Biodiversity Project
+This aim of this project is to analyze and project water quality parameters and biodiversity metrics in the Lower Keys. 
+email: tteasdale(at)regis(dot)edu
+Academic Advisor: Dr. Doug Hart
+Key West local
 
-You can use the [editor on GitHub](https://github.com/pythonpandas303/KeyWest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data have been obtained from the following sources:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
