@@ -19,5 +19,4 @@ Data have been obtained from the following sources:\
 The biodiversity and abundance of the Florida Keys has made them a destination for people all over the world. Several factors have put pressure on this unique ecosystem. The goal of this project is to model water quality and biodiversity/species richness in the past, present and future. It is the hope that this information may give insight into management strategies in the future. 
 
 ### Data Aggregation and Storage
-Data have been aggregated from multiple sources and stored on a local MongoDB. Some data have been modified or merged. There are several databases seperated by subject matter or source. While this data is not currently publically accesible, it is the hope that this data can be provided in it's compiled form sometime in the future. 
-
+Data have been aggregated from multiple sources and stored on a local MongoDB. Some data have been modified or merged. There are several databases seperated by subject matter or source. While this data is not currently publically accessible, it is the hope that these data can be provided in its compiled form in the future. 
