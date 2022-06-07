@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-os.chdir("C:\\Users\\megal\\Desktop\\KeysData\\TestJoinsPython")
+os.chdir("directory/path")
 tax = pd.read_csv('taxonomic_data.csv')
 obs = pd.read_csv('fk2018.csv')
 
