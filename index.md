@@ -5,14 +5,16 @@ email: tteasdale(at)regis(dot)edu \
 Academic Advisor: Dr. Doug Hart 
 
 ![acropora](https://user-images.githubusercontent.com/95242618/172421616-9c0015ce-0eda-4da2-9647-6fdb49dd93f0.jpg)
-Image Credit: Albert Kok at Dutch Wikipedia\
+Image Credit: Albert Kok at Dutch Wikipedia
 
 Data have been obtained from the following sources:\
 [South Florida Reef Visual Census](http://www.sefsc.noaa.gov/rvc_analysis20/samples/index)
 
 [Water Quality Data](http://serc.fiu.edu/wqmnetwork/FKNMS-CD/data_user_agreement.htm) were provided by the SERC-FIU Water Quality Monitoring Network which is supported by EPA Agreement #X7 00D02412-1 and NOAA Agreement #NA09NOS4260253.\
 
-[CREMP generic and non-generic data](https://ocean.floridamarine.org/fknms_wqpp/coral.htm) provided by Coral Reef Evaluation and Monitoring Project (CREMP), supported by NOAA, EPA and Florida Dept. of Environmental Protection.
+[CREMP generic and non-generic data](https://ocean.floridamarine.org/fknms_wqpp/coral.htm) provided by Coral Reef Evaluation and Monitoring Project (CREMP), supported by NOAA, EPA and Florida Dept. of Environmental Protection.\
+
+[National Coral Reef Monitoring Program](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCRMP-Benthic-Florida) data were used particularly as it relates to invertebrate observations. 
 
 
 ### Project Explanation and Goals
