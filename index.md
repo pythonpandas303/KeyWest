@@ -1,7 +1,7 @@
 ## Lower Keys Water Quality and Biodiversity Project
-This aim of this project is to analyze and project water quality parameters and biodiversity metrics in the Lower Keys. \\
-email: tteasdale(at)regis(dot)edu \\
-Academic Advisor: Dr. Doug Hart \\
+This aim of this project is to analyze and project water quality parameters and biodiversity metrics in the Lower Keys. \
+email: tteasdale(at)regis(dot)edu \
+Academic Advisor: Dr. Doug Hart \
 
 
 Data have been obtained from the following sources:
