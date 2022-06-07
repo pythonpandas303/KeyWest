@@ -5,7 +5,7 @@ email: tteasdale(at)regis(dot)edu \
 Academic Advisor: Dr. Doug Hart 
 
 ![acropora](https://user-images.githubusercontent.com/95242618/172421616-9c0015ce-0eda-4da2-9647-6fdb49dd93f0.jpg)
-Image Credit: Albert Kok at Dutch Wikipedia\
+Image Credit: Albert Kok at Dutch Wikipedia
 
 Data have been obtained from the following sources:\
 [South Florida Reef Visual Census](http://www.sefsc.noaa.gov/rvc_analysis20/samples/index)
