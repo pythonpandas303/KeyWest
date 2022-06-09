@@ -24,3 +24,7 @@ The biodiversity and abundance of the Florida Keys has made them a destination f
 
 ### Data Aggregation and Storage
 Data have been aggregated from multiple sources and stored on a local MongoDB. Some data have been modified or merged. There are several databases seperated by subject matter or source. While this data is not currently publically accessible, it is the hope that these data can be provided in their tidy form here in the near future. Raw data is available at the sources listed, or upon request. 
+
+### Code, plots, results
+
+In the intrest of reprducibility, all code and associated products will be deposited here.
